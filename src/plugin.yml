@@ -1,0 +1,12 @@
+name: SW-Core
+version: 1.0
+author: LPmitFelix
+main: de.LPmitFelix.StarWars.Core.main
+
+commands:
+  ban:
+  unban:
+  check:
+  setrank:
+  serverinfo:
+  nick:
